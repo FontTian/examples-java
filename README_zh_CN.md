@@ -1,3 +1,5 @@
+[中文简体](https://github.com/FontTian/examples-java/blob/master/README_zh_CN.md)
+
 ## 使用Apache Flink进行流处理的Java示例
 
 该存储库托管[Fabian Hueske](https://twitter.com/fhueske)的[“使用Apache Flink进行流处理”](http://shop.oreilly.com/product/0636920057321.do)的Java代码示例，以及 [Vasia Kalavri](https://twitter.com/vkalavri)。
